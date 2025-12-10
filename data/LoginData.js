@@ -1,4 +1,6 @@
 export const BASE_URL = 'https://www.saucedemo.com/'
+export const INVENTORY_URL = 'https://www.saucedemo.com/inventory.html'
+export const INVENTORY_TITLE = 'Products'
 
 // Valid login
 export const STANDARD_USER = 'standard_user'
